@@ -1,0 +1,94 @@
+h1{
+  font-family:'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #3F3D56
+}
+
+body{
+
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin:0
+
+}
+
+
+#main {
+
+  width: 626px;
+  margin: 0 auto 64px;
+  color: #828282;
+}
+
+#main img{
+
+  margin-bottom: 32px;
+}
+
+h1 span {
+
+color: #EE24FF ;
+font-weight: bold;
+
+}
+
+p{
+
+color: #828282
+font-size 15px;
+line-height: 22px;
+
+}
+
+strong {
+
+color: #3F3D56;
+font-weight: bold;
+
+}
+
+a {
+
+  color: #3F3D56;
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: none
+
+
+}
+
+#p2 {
+
+
+margin-top: 32px;
+
+}
+
+#ofertas{
+
+margin-left: 42px;
+margin-right: 42px;
+
+
+}
+
+#line {
+
+  height: 0px;
+  width: 391px;
+  left: 317px;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 16px auto;
+
+}
+
+#wave img{
+
+  margin-top: 40px;
+  width: 100%;
+
+
+}
